@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2017\Projects\Dekker 4\Dekker 4\bin\Debug\Dekker 4.exe.config
+c:\users\pedro\documents\visual studio 2017\Projects\Dekker 4\Dekker 4\bin\Debug\Dekker 4.exe
+c:\users\pedro\documents\visual studio 2017\Projects\Dekker 4\Dekker 4\bin\Debug\Dekker 4.pdb
+c:\users\pedro\documents\visual studio 2017\Projects\Dekker 4\Dekker 4\obj\Debug\Dekker 4.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2017\Projects\Dekker 4\Dekker 4\obj\Debug\Dekker 4.exe
+c:\users\pedro\documents\visual studio 2017\Projects\Dekker 4\Dekker 4\obj\Debug\Dekker 4.pdb
